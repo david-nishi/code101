@@ -1,0 +1,32 @@
+li a {
+  color: green;
+}
+
+li {
+  color: blue;
+}
+
+.first {
+  color: purple;
+  font-weight: bold;
+}
+
+.first a {
+  color: purple;
+}
+
+.last {
+  font-style: italic;
+}
+
+.red {
+  color: red;
+}
+
+a.red {
+
+}
+
+p.red {
+  padding-left: 24px;
+}
