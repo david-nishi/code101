@@ -24,6 +24,7 @@ header {
   font-size: ;
   display: block;
   border: solid;
+  border-color: pink;
 }
 
 img {
